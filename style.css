@@ -20,8 +20,8 @@ body{
 }
 
 #myImage{
-    height: 240px;
-    width: 240px;
+    display: flex;
+    height: 30vh;
 }
 
 .scoreboard{
